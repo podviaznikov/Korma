@@ -5,6 +5,7 @@ Tasty SQL for Clojure.
 ## TravisCI Status
 
 [![Build Status](https://travis-ci.org/korma/Korma.png)](https://travis-ci.org/korma/Korma)
+[![Dependencies Status](http://jarkeeper.com/korma/Korma/status.png)](http://jarkeeper.com/korma/Korma)
 
 ## Getting started
 
